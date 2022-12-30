@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "group-project-15",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://bolt2000.github.io/project-css-html",
@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/bolt2000/project-css-html.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/bolt2000/project-css-html/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "swiper": "^8.4.5"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
